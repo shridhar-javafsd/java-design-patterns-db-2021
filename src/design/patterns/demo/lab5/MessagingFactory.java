@@ -1,7 +1,7 @@
-package lab5;
+package design.patterns.demo.lab5;
 
 public class MessagingFactory {
-	public Messaging createNotification(String channel) {
+	public static Messaging createNotification(String channel) {
 		if (channel == null || channel.isEmpty())
 			return null;
 		if ("SMS".equals(channel)) {

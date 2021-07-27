@@ -1,4 +1,4 @@
-package lab5;
+package design.patterns.demo.lab5;
 
 public class EmailMessaging implements Messaging {
 
