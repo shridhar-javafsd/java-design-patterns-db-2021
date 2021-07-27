@@ -30,6 +30,8 @@ class Volt {
 }
 
 interface SocketAdapter {
+	
+	// simplified code 
 
 	public Volt get120Volt();
 

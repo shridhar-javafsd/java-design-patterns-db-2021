@@ -5,7 +5,7 @@ public class App {
   	public static void main(String[] args) {
  
         	testClassAdapter();
-        	testObjectAdapter();
+//        	testObjectAdapter();
   	}
  
   	private static void testObjectAdapter() {
