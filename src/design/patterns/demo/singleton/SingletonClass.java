@@ -7,7 +7,7 @@ public class SingletonClass {
 
 
 	private SingletonClass() {
-		System.out.println("Constr");
+		System.out.println("Constr...");
 
 	}
 
