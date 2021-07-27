@@ -1,8 +1,8 @@
 package design.patterns.demo;
 
-import design.patterns.demo.singleton.SingletonClass;
+import design.patterns.demo.creational.SingletonClass;
 
-// creational design patterns 
+// design.patterns.demo.creational design patterns 
 // singleton class 
 
 public class App {

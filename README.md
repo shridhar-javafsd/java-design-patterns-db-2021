@@ -178,7 +178,7 @@ Singleton as enums
 
 
 ## The FactoryMethod Pattern in java 
-a creational design pattern which talks about the creation of an object. The factory design pattern says that define an interface ( A java interface or an abstract class) and let the subclasses decide which object to instantiate. 
+a design.patterns.demo.creational design pattern which talks about the creation of an object. The factory design pattern says that define an interface ( A java interface or an abstract class) and let the subclasses decide which object to instantiate. 
 
 Create a java Interface for messaging 
 ~~~~java
